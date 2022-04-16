@@ -20,6 +20,7 @@
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)
 
 
 ## ⚡ GitHub Stats
