@@ -27,6 +27,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aslmmon&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslmmon&layout=compact&count_private=true&theme=gruvbox" />
+<a href="https://github.com/Aslmmon/Taskati" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aslmmon&repo=flutter_mini_samples&theme=gruvbox""></a>
 <a href="https://github.com/Aslmmon/Taskati" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aslmmon&repo=Taskati&theme=gruvbox""></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=29543701)
